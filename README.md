@@ -12,5 +12,8 @@ Steps to run the SDA code:
 
 1. If you wish to do an EE-MRIO, first run the "Extracting_F_Matrix" code in the "CO2_Emissions" folder to get 15 input files for F for each year.
 2. In PyMRIO, Z and Y files are required. We also input a V matrix in our case as a value-added extension. Get this data from references above.
-3. Change file paths wherever applicable.  
+3. In total, there will be 15 files for each of the following: Z, Y, V and F, which will be used as input files.
+4. Change file paths wherever applicable.  
+
+Note: SDA effects can be obtained for any of the 43 countries in the dataset.
 
